@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
@@ -22,6 +21,7 @@
   "homepage": "https://github.com/zhaned/lab-06a#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "jest": "^26.6.3",
     "supertest": "^6.1.3"
